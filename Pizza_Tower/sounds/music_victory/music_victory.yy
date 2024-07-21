@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":134.4,
+  "duration":9.065556,
   "name":"music_victory",
   "parent":{
     "name":"Sounds",

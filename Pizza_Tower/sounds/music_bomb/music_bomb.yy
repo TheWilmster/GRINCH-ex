@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":35.396984,
   "name":"music_bomb",
   "parent":{
     "name":"Sounds",

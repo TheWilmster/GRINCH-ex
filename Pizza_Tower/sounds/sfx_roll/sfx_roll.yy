@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.232426,
   "name":"sfx_roll",
   "parent":{
     "name":"Sounds",

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":15.575,
+  "duration":15.575601,
   "name":"music_ranka",
   "parent":{
     "name":"Sounds",

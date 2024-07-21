@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.542,
+  "duration":0.583968,
   "name":"sfx_woosh",
   "parent":{
     "name":"Sounds",

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":1.732,
+  "duration":5.669637,
   "name":"key_obtained",
   "parent":{
     "name":"Sounds",

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":2.181,
+  "duration":196.22401,
   "name":"music_spookytower",
   "parent":{
     "name":"Sounds",

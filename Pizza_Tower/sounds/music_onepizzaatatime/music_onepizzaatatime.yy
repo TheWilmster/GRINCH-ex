@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":107.66402,
   "name":"music_onepizzaatatime",
   "parent":{
     "name":"Sounds",

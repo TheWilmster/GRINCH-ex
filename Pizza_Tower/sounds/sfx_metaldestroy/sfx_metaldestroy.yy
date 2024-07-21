@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.505,
+  "duration":2.448005,
   "name":"sfx_metaldestroy",
   "parent":{
     "name":"Sounds",

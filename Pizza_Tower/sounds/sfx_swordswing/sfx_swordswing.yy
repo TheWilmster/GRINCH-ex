@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.546667,
   "name":"sfx_swordswing",
   "parent":{
     "name":"Sounds",

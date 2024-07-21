@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.505,
+  "duration":0.526327,
   "name":"sfx_punch5",
   "parent":{
     "name":"Sounds",

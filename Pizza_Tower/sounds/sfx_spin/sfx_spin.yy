@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.542,
+  "duration":0.542766,
   "name":"sfx_spin",
   "parent":{
     "name":"Sounds",

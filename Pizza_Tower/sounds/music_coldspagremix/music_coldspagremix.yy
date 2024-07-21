@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":2.181,
+  "duration":176.0029,
   "name":"music_coldspagremix",
   "parent":{
     "name":"Sounds",

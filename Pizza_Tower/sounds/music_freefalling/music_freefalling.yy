@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":2.181,
+  "duration":164.22607,
   "name":"music_freefalling",
   "parent":{
     "name":"Sounds",

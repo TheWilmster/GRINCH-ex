@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":134.4,
+  "duration":104.304016,
   "name":"music_towertheme",
   "parent":{
     "name":"Sounds",

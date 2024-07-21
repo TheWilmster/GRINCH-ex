@@ -1,18 +1,17 @@
 function scr_collideandmove()
 {
-	var _temp_local_var_2;
-	_temp_local_var_2 = abs(vsp)
+	var steps = abs(vsp)
 	if (abs(vsp) <= 0)
 	{
 	}
 	else
 	{
-	    while (true)
+	    repeat steps
 	    {
 	        if (!(place_meeting(x, (y + sign(vsp)), obj_collisionparent)))
 	        {
 	            y += sign(vsp)
-	            _temp_local_var_2 = (abs(vsp) - 1)
+	            steps = (abs(vsp) - 1)
 	            if (abs(vsp) - 1)
 	                continue
 	            break
@@ -21,13 +20,13 @@ function scr_collideandmove()
 	            vsp = 0
 	    }
 	}
-	_temp_local_var_2 = abs(hsp)
+	steps = abs(hsp)
 	if (abs(hsp) <= 0)
 	{
 	}
 	else
 	{
-	    while (true)
+	    repeat steps
 	    {
 	        if (place_meeting((x + sign(hsp)), y, obj_collisionparent) && place_meeting((x + sign(hsp)), (y - 1), obj_collisionparent) && (!(place_meeting((x + sign(hsp)), (y - 2), obj_collisionparent))))
 	            y -= 2
@@ -40,7 +39,7 @@ function scr_collideandmove()
 	        if (!(place_meeting((x + sign(hsp)), y, obj_collisionparent)))
 	        {
 	            x += sign(hsp)
-	            _temp_local_var_2 = (abs(hsp) - 1)
+	            steps = (abs(hsp) - 1)
 	            if (abs(hsp) - 1)
 	                continue
 	            break

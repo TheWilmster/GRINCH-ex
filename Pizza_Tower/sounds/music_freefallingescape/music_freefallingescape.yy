@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":2.181,
+  "duration":155.86249,
   "name":"music_freefallingescape",
   "parent":{
     "name":"Sounds",

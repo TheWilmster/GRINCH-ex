@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":134.4,
+  "duration":132.67201,
   "name":"music_towerbonus",
   "parent":{
     "name":"Sounds",

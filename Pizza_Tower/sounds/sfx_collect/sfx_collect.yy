@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.359093,
   "name":"sfx_collect",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"sfx_collect.ogg",
   "type":0,
-  "volume":0.56,
+  "volume":1.0,
 }

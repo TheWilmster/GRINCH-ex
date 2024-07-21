@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":14.652,
+  "duration":73.89599,
   "name":"music_toppins",
   "parent":{
     "name":"Sounds",

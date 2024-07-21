@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.505,
+  "duration":1.623515,
   "name":"sfx_swordhitwall",
   "parent":{
     "name":"Sounds",

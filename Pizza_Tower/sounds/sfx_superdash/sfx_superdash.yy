@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.232426,
   "name":"sfx_superdash",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"sfx_superdash.ogg",
   "type":0,
-  "volume":0.53,
+  "volume":1.0,
 }

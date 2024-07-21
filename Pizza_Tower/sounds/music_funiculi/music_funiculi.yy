@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":380.65634,
   "name":"music_funiculi",
   "parent":{
     "name":"Sounds",

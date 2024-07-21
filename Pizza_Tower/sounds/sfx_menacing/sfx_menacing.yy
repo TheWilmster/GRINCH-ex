@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":9.69,
+  "duration":9.690045,
   "name":"sfx_menacing",
   "parent":{
     "name":"Sounds",

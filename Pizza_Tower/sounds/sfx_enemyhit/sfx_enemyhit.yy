@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.209116,
   "name":"sfx_enemyhit",
   "parent":{
     "name":"Sounds",

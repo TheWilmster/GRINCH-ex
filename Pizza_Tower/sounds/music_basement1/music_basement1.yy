@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":134.4,
+  "duration":222.45598,
   "name":"music_basement1",
   "parent":{
     "name":"Sounds",

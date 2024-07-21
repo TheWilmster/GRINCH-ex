@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":0.492789,
   "name":"sfx_superimpact",
   "parent":{
     "name":"Sounds",

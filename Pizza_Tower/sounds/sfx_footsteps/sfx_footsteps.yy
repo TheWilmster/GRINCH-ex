@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.505,
+  "duration":0.505034,
   "name":"sfx_footsteps",
   "parent":{
     "name":"Sounds",

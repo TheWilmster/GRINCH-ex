@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":104.25599,
   "name":"music_cooltheme",
   "parent":{
     "name":"Sounds",

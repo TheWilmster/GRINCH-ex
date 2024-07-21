@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.107,
+  "duration":0.629841,
   "name":"sfx_landmetal",
   "parent":{
     "name":"Sounds",

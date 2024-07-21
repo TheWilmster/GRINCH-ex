@@ -1,4 +1,9 @@
 var target;
+var cam = view_camera[0];
+var cx = camera_get_view_x(cam);
+var cy = camera_get_view_y(cam);
+var w = camera_get_view_width(cam);
+var h = camera_get_view_height(cam);
 if (global.panic == 1)
     timestop = 0
 else
@@ -78,15 +83,7 @@ if (shake_mag > 0)
 if (instance_exists(obj_player) && obj_player.state != 25 && obj_player.state != 44)
 {
     target = obj_player
-    view_xview[0] = (target.x - (view_wview[0] / 2))
-    view_xview[0] = clamp(view_xview[0], 0, (room_width - view_wview[0]))
-    view_yview[0] = (target.y - (view_hview[0] / 2))
-    view_yview[0] = clamp(view_yview[0], 0, (room_height - view_hview[0]))
-    if (shake_mag != 0)
-    {
-        view_xview[0] = (target.x - (view_wview[0] / 2))
-        view_xview[0] = clamp(view_xview[0], 0, (room_width - view_wview[0]))
-        view_yview[0] = ((target.y - (view_hview[0] / 2)) + irandom_range((-shake_mag), shake_mag))
-        view_yview[0] = clamp(view_yview[0], (0 + irandom_range((-shake_mag), shake_mag)), ((room_height - view_hview[0]) + irandom_range((-shake_mag), shake_mag)))
-    }
+	var px = (target.x - (w / 2)) + irandom_range((-shake_mag), shake_mag);
+	var py = (target.y - (h / 2)) + irandom_range((-shake_mag), shake_mag);
+	camera_set_view_pos(cam, clamp(px, irandom_range((-shake_mag), shake_mag), (room_width - w)) + irandom_range((-shake_mag), shake_mag), clamp(py, 0 + irandom_range((-shake_mag), shake_mag), (room_height - h)) + irandom_range((-shake_mag), shake_mag));
 }

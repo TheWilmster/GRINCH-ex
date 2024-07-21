@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":134.4,
+  "duration":170.4,
   "name":"music_coldspag",
   "parent":{
     "name":"Sounds",

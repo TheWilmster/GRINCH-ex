@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.384263,
   "name":"sfx_freefallland",
   "parent":{
     "name":"Sounds",

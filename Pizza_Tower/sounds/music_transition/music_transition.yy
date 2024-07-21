@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":14.652,
+  "duration":47.28,
   "name":"music_transition",
   "parent":{
     "name":"Sounds",

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":51.528004,
   "name":"music_scary",
   "parent":{
     "name":"Sounds",

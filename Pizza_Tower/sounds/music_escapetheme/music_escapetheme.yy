@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":9.762,
+  "duration":222.45598,
   "name":"music_escapetheme",
   "parent":{
     "name":"Sounds",

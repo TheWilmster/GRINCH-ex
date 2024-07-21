@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.505,
+  "duration":215.32841,
   "name":"christmasmusic",
   "parent":{
     "name":"Sounds",

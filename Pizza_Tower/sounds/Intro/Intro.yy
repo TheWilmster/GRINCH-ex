@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":1.732,
+  "duration":115.82767,
   "name":"Intro",
   "parent":{
     "name":"Sounds",

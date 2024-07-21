@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.542,
+  "duration":0.757551,
   "name":"sfx_boing",
   "parent":{
     "name":"Sounds",

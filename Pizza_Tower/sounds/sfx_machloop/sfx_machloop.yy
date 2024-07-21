@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.181,
+  "duration":2.181814,
   "name":"sfx_machloop",
   "parent":{
     "name":"Sounds",

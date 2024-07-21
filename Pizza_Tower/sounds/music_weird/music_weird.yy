@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":14.652,
+  "duration":93.91202,
   "name":"music_weird",
   "parent":{
     "name":"Sounds",

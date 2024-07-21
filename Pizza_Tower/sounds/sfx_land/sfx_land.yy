@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":0.232,
+  "duration":0.167755,
   "name":"sfx_land",
   "parent":{
     "name":"Sounds",
