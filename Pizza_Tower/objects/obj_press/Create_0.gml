@@ -1,2 +1,2 @@
 image_speed = 0.5
-ID = obj_wall
+ID = obj_solid

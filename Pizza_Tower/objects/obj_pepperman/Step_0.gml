@@ -35,9 +35,9 @@ if (charging == 1 && stunned == 0)
     if (!instance_exists(obj_peppermancharge))
         instance_create(x, y, obj_peppermancharge)
     hsp = (image_xscale * movespeed)
-    if (!(place_meeting((x + 50), (y + 3), obj_wall)))
+    if (!(place_meeting((x + 50), (y + 3), obj_solid)))
         image_xscale = -1
-    if (!(place_meeting((x - 50), (y + 3), obj_wall)))
+    if (!(place_meeting((x - 50), (y + 3), obj_solid)))
         image_xscale = 1
     if (chargingdown == 0 && stunned == 0)
     {

@@ -4,7 +4,7 @@ if place_meeting(x, (y - 1), obj_player)
 {
     with (obj_player)
     {
-        if (!(place_meeting(x, (y + 1), obj_wall)))
+        if (!(place_meeting(x, (y + 1), obj_solid)))
         {
             movespeed = 0
             mach2 = 0

@@ -1,1 +1,1 @@
-ID = obj_wall
+ID = obj_solid
