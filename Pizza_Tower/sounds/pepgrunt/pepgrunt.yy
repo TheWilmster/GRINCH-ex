@@ -12,8 +12,8 @@
   "duration":0.960703,
   "name":"pepgrunt",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

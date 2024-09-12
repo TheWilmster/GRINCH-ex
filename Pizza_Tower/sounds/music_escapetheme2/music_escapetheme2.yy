@@ -12,8 +12,8 @@
   "duration":66.455986,
   "name":"music_escapetheme2",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

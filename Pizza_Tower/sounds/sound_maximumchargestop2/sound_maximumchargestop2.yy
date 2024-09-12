@@ -12,8 +12,8 @@
   "duration":1.332245,
   "name":"sound_maximumchargestop2",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

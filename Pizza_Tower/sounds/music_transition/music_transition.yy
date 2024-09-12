@@ -12,8 +12,8 @@
   "duration":47.28,
   "name":"music_transition",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

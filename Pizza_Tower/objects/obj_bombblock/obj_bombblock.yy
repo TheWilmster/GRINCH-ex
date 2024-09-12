@@ -10,8 +10,8 @@
   "name":"obj_bombblock",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Level Mechanics",
+    "path":"folders/Objects/Room Structure/Level Mechanics.yy",
   },
   "parentObjectId":{
     "name":"obj_bumpable",

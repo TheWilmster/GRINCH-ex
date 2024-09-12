@@ -12,8 +12,8 @@
   "duration":155.86249,
   "name":"music_freefallingescape",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

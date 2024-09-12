@@ -12,8 +12,8 @@
   "duration":0.359093,
   "name":"sfx_collect",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

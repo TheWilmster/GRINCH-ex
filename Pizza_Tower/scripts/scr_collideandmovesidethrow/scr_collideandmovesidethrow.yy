@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_collideandmovesidethrow",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Collision System",
+    "path":"folders/Scripts/Systems/Collision System.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

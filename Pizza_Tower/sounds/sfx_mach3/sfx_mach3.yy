@@ -12,8 +12,8 @@
   "duration":2.674104,
   "name":"sfx_mach3",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

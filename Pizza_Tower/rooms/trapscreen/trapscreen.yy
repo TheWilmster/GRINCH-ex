@@ -504,8 +504,8 @@
   ],
   "name":"trapscreen",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Hub",
+    "path":"folders/Rooms/Unused/Hub.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

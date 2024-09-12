@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_sound",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Music & SFX",
+    "path":"folders/Scripts/Systems/Music & SFX.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

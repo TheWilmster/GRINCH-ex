@@ -12,8 +12,8 @@
   "duration":1.623515,
   "name":"sfx_swordhitwall",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

@@ -12,8 +12,8 @@
   "duration":261.84708,
   "name":"music_pizzatimeremix",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

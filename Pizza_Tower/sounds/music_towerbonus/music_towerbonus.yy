@@ -12,8 +12,8 @@
   "duration":132.67201,
   "name":"music_towerbonus",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

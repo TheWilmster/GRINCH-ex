@@ -11,8 +11,8 @@
   "name":"obj_boulder",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Level Mechanics",
+    "path":"folders/Objects/Unused/Room Structure/Level Mechanics.yy",
   },
   "parentObjectId":{
     "name":"obj_solid",

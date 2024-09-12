@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"GLOBALINIT",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"GMS1 Compatibility",
+    "path":"folders/Scripts/Systems/GMS1 Compatibility.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

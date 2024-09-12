@@ -12,8 +12,8 @@
   "duration":220.13388,
   "name":"sound_firstescapetheme",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

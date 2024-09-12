@@ -12,8 +12,8 @@
   "duration":121.28218,
   "name":"music_bossthemeremix",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

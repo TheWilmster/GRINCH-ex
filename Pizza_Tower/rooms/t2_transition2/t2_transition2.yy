@@ -105,8 +105,8 @@
   ],
   "name":"t2_transition2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"T2",
+    "path":"folders/Rooms/Levels/Unused/T2.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

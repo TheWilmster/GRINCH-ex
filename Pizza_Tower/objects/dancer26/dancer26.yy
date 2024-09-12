@@ -8,8 +8,8 @@
   "name":"dancer26",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Dancers",
+    "path":"folders/Objects/Unused/Hub/Dancers.yy",
   },
   "parentObjectId":{
     "name":"dancergeneral",

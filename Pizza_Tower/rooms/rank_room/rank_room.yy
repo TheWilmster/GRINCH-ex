@@ -18,8 +18,8 @@
   ],
   "name":"rank_room",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Levels",
+    "path":"folders/Rooms/Levels.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

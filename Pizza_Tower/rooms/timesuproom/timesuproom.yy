@@ -19,8 +19,8 @@
   ],
   "name":"timesuproom",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Levels",
+    "path":"folders/Rooms/Levels.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

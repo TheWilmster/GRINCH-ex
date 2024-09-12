@@ -308,8 +308,8 @@
   ],
   "name":"credit_room",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Game Start & End",
+    "path":"folders/Rooms/Unused/Game Start & End.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

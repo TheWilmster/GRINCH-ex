@@ -12,8 +12,8 @@
   "name":"obj_barrelfloat",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Transformations",
+    "path":"folders/Objects/Unused/Transformations.yy",
   },
   "parentObjectId":null,
   "persistent":false,

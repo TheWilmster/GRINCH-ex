@@ -12,8 +12,8 @@
   "name":"obj_barrel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Transformations",
+    "path":"folders/Objects/Unused/Transformations.yy",
   },
   "parentObjectId":{
     "name":"obj_collisionparent",

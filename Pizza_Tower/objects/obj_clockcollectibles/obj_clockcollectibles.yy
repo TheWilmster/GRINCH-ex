@@ -15,8 +15,8 @@
   "name":"obj_clockcollectibles",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Collectables",
+    "path":"folders/Objects/Room Structure/Collectables.yy",
   },
   "parentObjectId":null,
   "persistent":false,

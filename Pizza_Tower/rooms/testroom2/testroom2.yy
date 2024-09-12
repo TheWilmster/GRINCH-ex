@@ -1072,8 +1072,8 @@
   ],
   "name":"testroom2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Test",
+    "path":"folders/Rooms/Test.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

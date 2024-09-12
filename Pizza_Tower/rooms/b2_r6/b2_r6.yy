@@ -650,8 +650,8 @@
   ],
   "name":"b2_r6",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"B2",
+    "path":"folders/Rooms/Levels/Unused/B2.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

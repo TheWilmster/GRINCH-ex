@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"pal_swap_get_color_count",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Palette Swap",
+    "path":"folders/Scripts/Systems/Palette Swap.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

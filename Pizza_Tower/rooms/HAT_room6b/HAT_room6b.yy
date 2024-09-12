@@ -461,8 +461,8 @@
   ],
   "name":"HAT_room6b",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Demo 2 Ancient (Hard)",
+    "path":"folders/Rooms/Levels/Unused/Demo 2 Ancient (Hard).yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -12,8 +12,8 @@
   "duration":176.0029,
   "name":"music_coldspagremix",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

@@ -12,8 +12,8 @@
   "duration":1.48898,
   "name":"sound_superjumpcharge2",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
