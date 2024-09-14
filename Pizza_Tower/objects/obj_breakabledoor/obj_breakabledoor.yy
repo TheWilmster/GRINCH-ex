@@ -13,7 +13,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Destroyables",
-    "path":"folders/Objects/Unused/Room Structure/Destroyables.yy",
+    "path":"folders/Objects/Unused/Room Structure/Level Mechanics/Destroyables.yy",
   },
   "parentObjectId":{
     "name":"obj_destructibles",

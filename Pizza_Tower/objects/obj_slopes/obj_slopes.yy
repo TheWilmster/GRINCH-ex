@@ -6,8 +6,8 @@
   "name":"obj_slopes",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Collision",
+    "path":"folders/Objects/Systems/Collision.yy",
   },
   "parentObjectId":{
     "name":"obj_enemiesbumpable",
@@ -35,5 +35,5 @@
     "path":"sprites/sprite197/sprite197.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

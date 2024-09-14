@@ -6,8 +6,8 @@
   "name":"obj_pixelslope",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Collision",
+    "path":"folders/Objects/Systems/Collision.yy",
   },
   "parentObjectId":{
     "name":"obj_collisionparent",

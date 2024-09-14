@@ -12,8 +12,8 @@
   "name":"obj_mach3effect1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Effects & Visuals",
+    "path":"folders/Objects/Effects & Visuals.yy",
   },
   "parentObjectId":null,
   "persistent":false,
