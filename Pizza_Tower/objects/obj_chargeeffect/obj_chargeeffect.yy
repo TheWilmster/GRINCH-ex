@@ -9,8 +9,8 @@
   "name":"obj_chargeeffect",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Charge",
+    "path":"folders/Objects/Effects & Visuals/General/Charge.yy",
   },
   "parentObjectId":null,
   "persistent":false,

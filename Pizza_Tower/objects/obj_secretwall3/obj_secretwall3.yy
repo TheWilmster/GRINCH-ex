@@ -6,8 +6,8 @@
   "name":"obj_secretwall3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Room Structure",
+    "path":"folders/Objects/Unused/Room Structure.yy",
   },
   "parentObjectId":{
     "name":"obj_secretwall",

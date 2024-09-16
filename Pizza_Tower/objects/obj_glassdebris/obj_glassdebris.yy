@@ -10,8 +10,8 @@
   "name":"obj_glassdebris",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Effects & Visuals.yy",
+    "name":"Debris",
+    "path":"folders/Objects/Effects & Visuals/Debris.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -10,8 +10,8 @@
   "name":"obj_parrallax",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Background",
+    "path":"folders/Objects/Systems/Background.yy",
   },
   "parentObjectId":null,
   "persistent":false,

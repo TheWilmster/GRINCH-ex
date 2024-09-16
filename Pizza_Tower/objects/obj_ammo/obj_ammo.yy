@@ -9,8 +9,8 @@
   "name":"obj_ammo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Unused/Effects & Visuals.yy",
+    "name":"Debris",
+    "path":"folders/Objects/Unused/Effects & Visuals/Debris.yy",
   },
   "parentObjectId":null,
   "persistent":false,

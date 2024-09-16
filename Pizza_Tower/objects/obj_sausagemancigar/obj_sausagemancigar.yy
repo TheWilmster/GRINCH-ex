@@ -9,8 +9,8 @@
   "name":"obj_sausagemancigar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Unused/Room Structure/Enemies.yy",
   },
   "parentObjectId":{
     "name":"obj_hurtbox",

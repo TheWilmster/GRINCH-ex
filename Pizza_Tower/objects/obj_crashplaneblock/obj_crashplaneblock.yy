@@ -8,8 +8,8 @@
   "name":"obj_crashplaneblock",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Room Structure",
+    "path":"folders/Objects/Room Structure.yy",
   },
   "parentObjectId":null,
   "persistent":false,

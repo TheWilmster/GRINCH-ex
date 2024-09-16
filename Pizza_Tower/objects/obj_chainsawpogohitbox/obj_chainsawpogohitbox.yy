@@ -9,8 +9,8 @@
   "name":"obj_chainsawpogohitbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hitboxes",
+    "path":"folders/Objects/Unused/Hitboxes.yy",
   },
   "parentObjectId":{
     "name":"obj_chainsawhitbox",

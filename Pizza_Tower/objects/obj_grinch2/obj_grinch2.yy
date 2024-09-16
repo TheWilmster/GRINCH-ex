@@ -6,8 +6,8 @@
   "name":"obj_grinch2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Grinch Exclusive",
+    "path":"folders/Objects/Effects & Visuals/Grinch Exclusive.yy",
   },
   "parentObjectId":null,
   "persistent":false,

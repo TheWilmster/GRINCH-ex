@@ -12,8 +12,8 @@
   "name":"obj_monster",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Unused/Room Structure/Enemies.yy",
   },
   "parentObjectId":null,
   "persistent":false,

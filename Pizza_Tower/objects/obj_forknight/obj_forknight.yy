@@ -25,8 +25,8 @@
   "name":"obj_forknight",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Room Structure/Enemies.yy",
   },
   "parentObjectId":{
     "name":"obj_baddie",

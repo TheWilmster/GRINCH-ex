@@ -10,8 +10,8 @@
   "name":"obj_pizzakinshroom",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Toppins",
+    "path":"folders/Objects/Room Structure/Level Mechanics/Toppins.yy",
   },
   "parentObjectId":null,
   "persistent":false,

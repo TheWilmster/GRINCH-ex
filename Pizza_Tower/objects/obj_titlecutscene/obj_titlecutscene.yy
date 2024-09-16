@@ -11,8 +11,8 @@
   "name":"obj_titlecutscene",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Cutscenes",
+    "path":"folders/Objects/Unused/Cutscenes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

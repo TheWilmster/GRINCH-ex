@@ -6,8 +6,8 @@
   "name":"obj_title",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"HUD",
+    "path":"folders/Objects/Systems/HUD.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -17,8 +17,8 @@
   "name":"obj_tutorialtrap",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hub",
+    "path":"folders/Objects/Unused/Hub.yy",
   },
   "parentObjectId":{
     "name":"obj_destructibles",

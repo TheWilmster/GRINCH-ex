@@ -6,8 +6,8 @@
   "name":"obj_gnome",
   "overriddenProperties":[],
   "parent":{
-    "name":"Level Mechanics",
-    "path":"folders/Objects/Room Structure/Level Mechanics.yy",
+    "name":"Room Structure",
+    "path":"folders/Objects/Room Structure.yy",
   },
   "parentObjectId":{
     "name":"obj_solid",

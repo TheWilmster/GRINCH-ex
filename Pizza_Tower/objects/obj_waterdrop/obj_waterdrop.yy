@@ -10,8 +10,8 @@
   "name":"obj_waterdrop",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Effects & Visuals",
+    "path":"folders/Objects/Unused/Effects & Visuals.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -11,8 +11,8 @@
   "name":"obj_machfreefall1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Effects & Visuals.yy",
+    "name":"Afterimages",
+    "path":"folders/Objects/Effects & Visuals/Afterimages.yy",
   },
   "parentObjectId":null,
   "persistent":false,

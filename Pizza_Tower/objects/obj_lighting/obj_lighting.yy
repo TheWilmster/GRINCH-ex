@@ -11,8 +11,8 @@
   "name":"obj_lighting",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Effects & Visuals",
+    "path":"folders/Objects/Effects & Visuals.yy",
   },
   "parentObjectId":null,
   "persistent":false,

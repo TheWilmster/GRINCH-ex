@@ -9,8 +9,8 @@
   "name":"obj_discoball",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Dance Room",
+    "path":"folders/Objects/Unused/Hub/Dance Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,

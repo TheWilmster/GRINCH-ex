@@ -10,8 +10,8 @@
   "name":"obj_exitgate",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Room Structure",
+    "path":"folders/Objects/Unused/Room Structure.yy",
   },
   "parentObjectId":null,
   "persistent":false,

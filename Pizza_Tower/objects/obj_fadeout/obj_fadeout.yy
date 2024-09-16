@@ -10,8 +10,8 @@
   "name":"obj_fadeout",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Warps",
+    "path":"folders/Objects/Room Structure/Warps.yy",
   },
   "parentObjectId":null,
   "persistent":true,

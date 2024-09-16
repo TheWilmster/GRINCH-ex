@@ -9,8 +9,8 @@
   "name":"obj_cursor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Pause & Menu",
+    "path":"folders/Objects/Unused/HUD/Pause & Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

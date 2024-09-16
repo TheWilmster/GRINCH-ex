@@ -8,8 +8,8 @@
   "name":"obj_claus",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Effects & Visuals.yy",
+    "name":"Grinch Exclusive",
+    "path":"folders/Objects/Effects & Visuals/Grinch Exclusive.yy",
   },
   "parentObjectId":null,
   "persistent":false,

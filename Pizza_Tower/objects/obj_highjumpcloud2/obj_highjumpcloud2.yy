@@ -9,8 +9,8 @@
   "name":"obj_highjumpcloud2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"General",
+    "path":"folders/Objects/Effects & Visuals/General.yy",
   },
   "parentObjectId":null,
   "persistent":false,

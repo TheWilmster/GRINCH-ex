@@ -8,8 +8,8 @@
   "name":"obj_freefallhitbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hitboxes",
+    "path":"folders/Objects/General/Player/Hitboxes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

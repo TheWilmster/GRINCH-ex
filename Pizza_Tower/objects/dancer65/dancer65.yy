@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Dancers",
-    "path":"folders/Objects/Unused/Hub/Dancers.yy",
+    "path":"folders/Objects/Unused/Hub/Dance Room/Dancers.yy",
   },
   "parentObjectId":{
     "name":"dancergeneral",

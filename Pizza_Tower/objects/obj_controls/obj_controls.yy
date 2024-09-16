@@ -8,8 +8,8 @@
   "name":"obj_controls",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"HUD",
+    "path":"folders/Objects/Unused/HUD.yy",
   },
   "parentObjectId":null,
   "persistent":false,

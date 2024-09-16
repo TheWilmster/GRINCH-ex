@@ -6,8 +6,8 @@
   "name":"obj_baddie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Room Structure/Enemies.yy",
+    "name":"Parents",
+    "path":"folders/Objects/Room Structure/Enemies/Parents.yy",
   },
   "parentObjectId":null,
   "persistent":false,

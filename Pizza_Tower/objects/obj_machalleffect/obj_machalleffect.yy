@@ -9,8 +9,8 @@
   "name":"obj_machalleffect",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Effects & Visuals.yy",
+    "name":"General",
+    "path":"folders/Objects/Effects & Visuals/General.yy",
   },
   "parentObjectId":null,
   "persistent":false,

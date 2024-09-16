@@ -10,8 +10,8 @@
   "name":"obj_bubble",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Unused/Effects & Visuals.yy",
+    "name":"General",
+    "path":"folders/Objects/Unused/Effects & Visuals/General.yy",
   },
   "parentObjectId":null,
   "persistent":false,

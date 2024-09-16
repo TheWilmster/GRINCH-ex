@@ -10,8 +10,8 @@
   "name":"obj_result",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Misc.",
+    "path":"folders/Objects/Unused/Misc..yy",
   },
   "parentObjectId":null,
   "persistent":false,

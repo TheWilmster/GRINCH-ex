@@ -11,8 +11,8 @@
   "name":"obj_enemymeteor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"General",
+    "path":"folders/Objects/Unused/Effects & Visuals/General.yy",
   },
   "parentObjectId":null,
   "persistent":false,

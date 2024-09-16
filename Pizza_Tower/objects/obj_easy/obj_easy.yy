@@ -6,8 +6,8 @@
   "name":"obj_easy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hub",
+    "path":"folders/Objects/Unused/Room Structure/Hub.yy",
   },
   "parentObjectId":null,
   "persistent":false,

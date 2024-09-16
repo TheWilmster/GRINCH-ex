@@ -9,8 +9,8 @@
   "name":"obj_slaphitbox2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hitboxes",
+    "path":"folders/Objects/Unused/Hitboxes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

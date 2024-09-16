@@ -9,8 +9,8 @@
   "name":"obj_80",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Unused/Effects & Visuals.yy",
+    "name":"Numbers",
+    "path":"folders/Objects/Unused/Effects & Visuals/Numbers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

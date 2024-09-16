@@ -9,8 +9,8 @@
   "name":"obj_forkhitbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hitboxes",
+    "path":"folders/Objects/Room Structure/Enemies/Hitboxes.yy",
   },
   "parentObjectId":{
     "name":"obj_hurtbox",

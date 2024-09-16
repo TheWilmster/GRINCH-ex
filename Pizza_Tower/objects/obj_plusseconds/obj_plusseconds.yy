@@ -9,8 +9,8 @@
   "name":"obj_plusseconds",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Misc.",
+    "path":"folders/Objects/Unused/Misc..yy",
   },
   "parentObjectId":null,
   "persistent":false,

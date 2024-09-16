@@ -9,8 +9,8 @@
   "name":"obj_shotgunbulletdown",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Projectiles",
+    "path":"folders/Objects/Unused/Effects & Visuals/Projectiles.yy",
   },
   "parentObjectId":{
     "name":"obj_shotgunbullet",
