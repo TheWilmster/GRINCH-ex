@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Pepperoni Goblin",
+    "path":"folders/Sprites/Room Structure/Enemies/Pepperoni Goblin.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

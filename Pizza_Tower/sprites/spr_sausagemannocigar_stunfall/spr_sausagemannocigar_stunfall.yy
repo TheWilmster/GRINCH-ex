@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"No Cigar",
+    "path":"folders/Sprites/Room Structure/Enemies/Sausage Man/No Cigar.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

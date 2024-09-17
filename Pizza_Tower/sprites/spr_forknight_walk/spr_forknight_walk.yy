@@ -36,8 +36,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Forknight",
+    "path":"folders/Sprites/Room Structure/Enemies/Forknight.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

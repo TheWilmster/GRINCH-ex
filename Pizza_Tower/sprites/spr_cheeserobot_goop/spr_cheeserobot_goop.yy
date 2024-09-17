@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Cheese Robot",
+    "path":"folders/Sprites/Room Structure/Enemies/Cheese Robot.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

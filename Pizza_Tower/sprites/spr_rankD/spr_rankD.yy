@@ -34,8 +34,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Rank Screen",
+    "path":"folders/Sprites/Unused/Room Structure/Level Mechanics/Rank Screen.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

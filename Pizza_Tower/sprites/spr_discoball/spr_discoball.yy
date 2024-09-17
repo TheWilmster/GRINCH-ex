@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Dance Room",
+    "path":"folders/Sprites/Unused/Hub/Dance Room.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

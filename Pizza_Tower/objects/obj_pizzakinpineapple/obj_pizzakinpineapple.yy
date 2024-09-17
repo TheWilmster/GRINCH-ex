@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Toppins",
-    "path":"folders/Objects/Room Structure/Level Mechanics/Toppins.yy",
+    "path":"folders/Objects/Room Structure/Collectables/Toppins.yy",
   },
   "parentObjectId":null,
   "persistent":false,

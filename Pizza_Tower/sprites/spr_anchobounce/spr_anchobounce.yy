@@ -37,8 +37,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Anchovy",
+    "path":"folders/Sprites/Room Structure/Enemies/Anchovy.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

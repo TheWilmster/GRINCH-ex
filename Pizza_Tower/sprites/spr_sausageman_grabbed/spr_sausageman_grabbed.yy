@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Sausage Man",
+    "path":"folders/Sprites/Room Structure/Enemies/Sausage Man.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

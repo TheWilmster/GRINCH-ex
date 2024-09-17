@@ -30,8 +30,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Numbers",
+    "path":"folders/Sprites/Unused/Effects & Visuals/Numbers.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

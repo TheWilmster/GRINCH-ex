@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Room Structure",
-    "path":"folders/Objects/Room Structure.yy",
+    "path":"folders/Objects/Unused/Room Structure.yy",
   },
   "parentObjectId":null,
   "persistent":false,

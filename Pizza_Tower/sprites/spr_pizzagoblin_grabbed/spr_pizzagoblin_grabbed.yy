@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Bomb Goblin",
+    "path":"folders/Sprites/Room Structure/Enemies/Bomb Goblin.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

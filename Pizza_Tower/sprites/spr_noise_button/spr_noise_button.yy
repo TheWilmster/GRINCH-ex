@@ -127,8 +127,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Noise",
+    "path":"folders/Sprites/Unused/Room Structure/Enemies/Bosses/Noise.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

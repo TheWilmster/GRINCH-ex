@@ -30,8 +30,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Pineapple",
+    "path":"folders/Sprites/Room Structure/Collectables/Toppins/Pineapple.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Debris",
+    "path":"folders/Sprites/Unused/Effects & Visuals/Debris.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -9,8 +9,8 @@
   "name":"obj_exit",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects & Visuals",
-    "path":"folders/Objects/Unused/Effects & Visuals.yy",
+    "name":"HUD",
+    "path":"folders/Objects/Systems/HUD.yy",
   },
   "parentObjectId":null,
   "persistent":false,

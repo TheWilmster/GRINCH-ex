@@ -34,8 +34,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Dancers",
+    "path":"folders/Sprites/Unused/Hub/Dance Room/Dancers.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

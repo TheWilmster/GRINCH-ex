@@ -34,8 +34,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Explosions",
+    "path":"folders/Sprites/Effects & Visuals/General/Explosions.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
